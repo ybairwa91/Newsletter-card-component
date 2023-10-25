@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&family=Roboto&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* write your CSS here */
+
+body {
+  background-color: rgb(211, 219, 215);
+}
+
+.mainpart {
+
+  font-family: sans-serif;
+  text-align: center;
+  padding: 50px;
+  background-color: white;
+  margin: 200px auto;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  box-shadow: 5px 10px rgb(205, 207, 206);
+  width: 700px;
+}
+
+.mainpart h1 {
+  text-align: center;
+  margin: 0px;
+}
+
+.mainpart p {
+  text-align: center;
+  margin: 10px;
+}
+
+#Newsletter {
+  width: 500px;
+  height: 40px;
+}
+
+#Subscribe {
+  background-color: black;
+  color: white;
+  height: 40px;
+  padding: 10px;
+  border-radius: 5px;
+
+}
+
+
+#checkbox {
+  margin-top: 8px;
+}
