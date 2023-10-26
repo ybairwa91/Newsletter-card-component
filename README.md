@@ -1,4 +1,4 @@
-#Project Title#
+#Project Title
 Newsletter Card Component
 
 **Project Description**
