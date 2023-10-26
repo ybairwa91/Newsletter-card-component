@@ -36,12 +36,12 @@ body {
   margin: 10px;
 }
 
-#Newsletter {
+#input {
   width: 500px;
   height: 40px;
 }
 
-#Subscribe {
+#btn {
   background-color: black;
   color: white;
   height: 40px;
